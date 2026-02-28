@@ -93,7 +93,7 @@ window.addEventListener('click', (e) => {
 // Modal Carousel Navigation
 const mTestimonials = document.querySelectorAll('.modal-testimonial');
 const mDots = document.querySelectorAll('.m-dot');
-let mIndex = 0;
+let mIndex = 1;
 
 function updateModal(index) {
     mTestimonials.forEach(t => t.classList.remove('active'));
