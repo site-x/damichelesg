@@ -3,7 +3,7 @@
     --deep-red-rgb: 197, 75, 44; /* For rgba() usage */
     --cream: #efe1cd;
     --dark-green: #C54B2C;
-    --gold: #ffffff;
+    --gold: #b3ab89;
     --soft-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
     --glass: #efe1cd;
     --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
@@ -360,7 +360,7 @@ body {
 
 .review-modal-btn {
     background: var(--dark-green);
-    color: var(--gold);
+    color: var(--glass);
     border: 1px solid var(--gold);
     padding: 12px 24px;
     border-radius: 50px;
